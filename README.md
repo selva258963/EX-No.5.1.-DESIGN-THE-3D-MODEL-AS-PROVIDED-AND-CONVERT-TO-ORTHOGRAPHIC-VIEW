@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![selav ex5 1 20kb](https://user-images.githubusercontent.com/121961701/213353504-bd0e7000-97f0-4e16-85f3-3b638c6f9e38.jpg)
 
 
 ## RESULT:
